@@ -64,8 +64,10 @@ import java.util.Date;
 import java.util.List;
 import java.util.UUID;
 
-import com.yalantis.ucrop.UCrop;
-import com.yalantis.ucrop.UCropActivity;
+//import com.yalantis.ucrop.UCrop;
+//import com.yalantis.ucrop.UCropActivity;
+import com.LesleySin.uCrop.UCrop;
+import com.LesleySin.uCrop.UCropActivity;
 
 import ui.photoeditor.R;
 
